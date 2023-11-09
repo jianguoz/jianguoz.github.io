@@ -1,0 +1,68 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<link rel="shortcut icon" href="./Jianguo Zhang_files/myIcon.ico">
+
+<meta name="keywords" content="Jianguo Zhang, CS, SE, ZJU, Zhejiang University"> 
+<meta name="description" content="Jianguo Zhang&#39;s Homepage">
+<link rel="stylesheet" href="./Jianguo Zhang_files/jemdoc.css" type="text/css">
+<title>Jianguo Zhang</title>
+<script type="text/javascript" async="" src="./Jianguo Zhang_files/ga.js"></script><script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-39824124-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-99347283-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<script type="text/javascript" src="./Jianguo Zhang_files/jquery-1.12.4.min.js"></script></head>
+<body>
+
+<div id="layout-content" style="margin-top:25px">
+
+<table>
+	<tbody>
+		<tr>
+			<td width="670">
+				<div id="toptitle">					
+					<h1>Jianguo Zhang 张建国</h1><h1>
+				</h1></div>
+
+				<h3>Ph.D in Computer Science</h3>
+				<p>
+					University of Illinois at Chicago (UIC),<br>
+					Chicago, IL, U.S. <br>
+					<br>
+					Email: jzhan51@uic.edu
+				</p>
+				<p>
+					<a href="https://github.com/jianguoz" target="_blank"><img src="./Jianguo Zhang_files/items/Github.png" height="30px" style="margin-bottom:-3px"></a>
+					<a href="https://scholar.google.com/citations?user=wWY9e0YAAAAJ&hl=en/" target="_blank"><img src="./Jianguo Zhang_files/items/google_scholar.png" height="30px" style="margin-bottom:-3px"></a> 
+				</p>
+			</td>
+			<td>
+				<img src="./Jianguo Zhang_files/photos/personal.jpg" border="0" width="240"><br>
+			</td>
+		</tr><tr>
+	</tr></tbody>
+</table>
+
+<h2>This website is under construction</h2>
+
+</div>
+</body></html>
